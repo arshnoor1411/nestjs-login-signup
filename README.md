@@ -1,5 +1,3 @@
-# Speer Assignment
-
 ## Technologies/Frameworks Used
 
 1. NodeJS --> Node.js is an open-source, server-side runtime environment built on the V8 JavaScript engine. It allows you to execute JavaScript code on the server, enabling the development of scalable and high-performance web applications.
